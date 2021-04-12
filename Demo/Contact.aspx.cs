@@ -22,7 +22,7 @@ namespace Demo
 
             //added code to store name and message to our local db table Message
             var connectionString = ConfigurationManager.ConnectionStrings["messageDB"].ConnectionString;
-            var InsertStatement = "INSERT into Message (Name, Message) values (@Name, @Message)";
+            var InsertStatement = "INSERT into Message (Name, Messge) values (@Name, @Message)";
             using(var sqlConnection = new SqlConnection(connectionString))
             {
                 sqlConnection.Open();
