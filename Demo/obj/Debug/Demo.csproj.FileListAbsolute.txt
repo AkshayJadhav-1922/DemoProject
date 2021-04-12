@@ -71,3 +71,4 @@ C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
 C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.dll
 C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\HP\source\repos\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
